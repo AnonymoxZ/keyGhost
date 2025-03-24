@@ -11,10 +11,12 @@ Para encerrar a gravação de eventos, pressione ESC.
 
 <h2>Como instalar:</h2>
 Após criar seu ambiente virtual venv ( recomendado ) use:
-```pip install pynput```
+´´´pip install pynput´´´
 
 
 
 Assista aqui uma apresentação de uso do keyGhost:
 
-<a src="gameteca.vercel.app">KeyGhost - executando um keylogger</a>
+
+
+<a href="gameteca.vercel.app">KeyGhost - executando um keylogger</a>
